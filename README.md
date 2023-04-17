@@ -1,4 +1,8 @@
-# SC-LIO-SAM
+# SC-LIO-SAM-updated
+
+A fork of the original repository aiming to introduce all the latest LIO-SAM updates that the original repository didn't implement
+
+## SC-LIO-SAM
 version 2021-06-24 
 
 ## What is SC-LIO-SAM?
